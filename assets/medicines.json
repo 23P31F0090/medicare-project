@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Paracetamol",
+      "description": "Used to treat pain and fever.",
+      "price": 30
+    },
+    {
+      "name": "Ibuprofen",
+      "description": "Reduces inflammation and pain.",
+      "price": 50
+    },
+    {
+      "name": "Amoxicillin",
+      "description": "Antibiotic for bacterial infections.",
+      "price": 120
+    },
+    {
+      "name": "Cough Syrup",
+      "description": "Relieves cough and throat irritation.",
+      "price": 80
+    }
+  ]
+  
